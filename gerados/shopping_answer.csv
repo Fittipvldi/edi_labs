@@ -1,9 +1,10 @@
 ID,name,description,quantity,value,total
-1,Camisa,Camisa Social Preta,3,56.5,991.19
-2,Regata,Regata 100% Algodao,6,9.99,991.19
-3,Saia Rodada,Saia Rodada Rosa,2,29.9,991.19
-4,Meia,Meia branca,3,5.0,991.19
-5,Gorro,Gorro Preto,1,12.0,991.19
-6,Moletom,Moletom Adidas,1,119.95,991.19
-7,Bermuda,Bermuda Ciclone,3,35.0,991.19
-8,Tenis,Tenis Nike Shox,1,450.0,991.19
+1,Camisa,Camisa Social Preta,3,56.5,169.5
+2,Regata,Regata 100% Algodao,6,9.99,59.94
+3,Saia Rodada,Saia Rodada Rosa,2,29.9,59.8
+4,Meia,Meia branca,3,5.0,15.0
+5,Gorro,Gorro Preto,1,12.0,12.0
+6,Moletom,Moletom Adidas,1,119.95,119.95
+7,Bermuda,Bermuda Ciclone,3,35.0,105.0
+8,Tenis,Tenis Nike Shox,1,450.0,450.0
+Total,    ,    ,    ,    ,991.19

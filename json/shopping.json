@@ -10,7 +10,7 @@
 		{
 			"id": 2,
 			"name": "Regata",
-			"description": "Regata 100% Algodão",
+			"description": "Regata 100% Algodao",
 			"quantity": 6,
 			"value": 9.99
 		},
@@ -51,8 +51,8 @@
 		},
 		{
 			"id": 8,
-			"name": "Tênis",
-			"description": "Tênis Nike Shox",
+			"name": "Tenis",
+			"description": "Tenis Nike Shox",
 			"quantity": 1,
 			"value": 450.00
 		}

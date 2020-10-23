@@ -1,0 +1,12 @@
+Olá pessoal! Tudo bem? Espero que sim :) 
+
+No momento em que eu coloquei o delimiter na linha 15, não consegui colocar o "|" conforme o exigido, pois quando o arquivo
+shopping_answer.csv é convertido para shopping_answer.json, os itens não separados corretamente, então tanto as chaves quanto
+os valores, ficavam em uma linha só.
+
+Referente ao valor total, eu não consegui pensar em uma maneira para que ele não seja relacionado em cada produto, então a chave
+acabou sendo replicada.
+
+Agradeço a oportunidade desde já, tentei fazer o meu melhor apesar de ser a primeira vez que faço algo com csv.
+
+Abraços!

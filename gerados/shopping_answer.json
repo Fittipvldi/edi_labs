@@ -63,14 +63,7 @@
             "quantity": "1",
             "value": "450.0",
             "total": "450.0"
-        },
-        {
-            "ID": "Total",
-            "name": "    ",
-            "description": "    ",
-            "quantity": "    ",
-            "value": "    ",
-            "total": "991.19"
         }
-    ]
+    ],
+    "total": 991.19
 }

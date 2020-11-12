@@ -16,7 +16,7 @@ with open(f_csv, 'r') as file:
         else:
             data['order'].append(i)
 
-    data['total'] = total(data_json)
+    data['total'] = str(total(data_json))
 
 with open(f_json, 'w') as file:
     file.write(json.dumps(data, indent=4))
